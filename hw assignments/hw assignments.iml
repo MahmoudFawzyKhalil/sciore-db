@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/hw 3" isTestSource="false" packagePrefix="simpledb.buffer" />
+      <sourceFolder url="file://$MODULE_DIR$/hw 4" isTestSource="false" packagePrefix="simpledb.tx.recovery" />
+      <sourceFolder url="file://$MODULE_DIR$/hw 5" isTestSource="false" packagePrefix="simpledb.tx.concurrency" />
+      <sourceFolder url="file://$MODULE_DIR$/hw 7" isTestSource="false" packagePrefix="simpledb.query" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="sciore-db" />
+  </component>
+</module>
